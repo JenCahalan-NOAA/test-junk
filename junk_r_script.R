@@ -10,3 +10,5 @@ some.dataframe
 
 
 save.image("C:\\Users\\jennifer.cahalan\\Work\\JAC Stuff\\junk git test.RData")
+
+save.image("C:\\Users\\jennifer.cahalan\\Work\\JAC Stuff\\another-junk-git-test.RData")
